@@ -1,1 +1,1 @@
-####This is a Portfolio Projects focusing on data cleaning, data wrangling and visualizations.
+This is a Portfolio Projects focusing on data cleaning, data wrangling and visualizations.
